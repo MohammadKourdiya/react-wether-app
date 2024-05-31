@@ -17,13 +17,12 @@ The React Weather App is a web application that provides current weather informa
 
 ## Screenshots
 ### Home Page
-![Home Page]
+
 ![Screenshot 2024-05-31 173807](https://github.com/MohammadKourdiya/react-wether-app/assets/29815461/dec7977c-7e3d-4f33-966c-692e9da77f5f)
 
 ![Screenshot 2024-05-31 173901](https://github.com/MohammadKourdiya/react-wether-app/assets/29815461/c4007609-56f2-4fda-8160-574833b6f0c9)
 
-### Weather Results
-![Weather Results](./screenshots/weather-results.png)
+
 
 ## Installation
 
