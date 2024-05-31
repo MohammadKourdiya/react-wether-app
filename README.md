@@ -13,7 +13,8 @@ The React Weather App is a web application that provides current weather informa
 - HTML
 - CSS
 - JavaScript
-- Weather API (e.g., OpenWeatherMap)
+- Weather API (OpenWeatherMap)
+- i18next react (for translate)
 
 ## Screenshots
 ### Home Page
